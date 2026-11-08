@@ -1,0 +1,199 @@
+{
+    "savedWithGameVersion": "0.21.1",
+    "buildName": "Holy Daggers",
+    "buildAuthor": "gienekman",
+    "buildCategory": 0,
+    "buildDescription": "Thief’s Dagger Energy casts Holy Bolts, Fulskar echoes every cast, and every cast triggers Aura of Judgment on up to 19 enemies. Blood of Ulth Vuul multiplies the core Judgment per Ancient copy, Ring of Ruin stacks on the hundreds of Hits per second, Health on Kill heals as packs die. Stand and swing. Derived from gienekman's Akka Grinder 2000: https://steamcommunity.com/app/3238670/discussions/0/796710324402218658",
+    "buildTags": [
+        2,
+        0
+    ],
+    "raceID": "raceHuman",
+    "classID": "classThief",
+    "originID": "originDishonoredChampion",
+    "masteryEntries": [
+        {
+            "masteryID": "masteryAlacrity",
+            "masteryRanks": 5
+        },
+        {
+            "masteryID": "masteryAcrobatics",
+            "masteryRanks": 3
+        },
+        {
+            "masteryID": "masteryDeadlyStrikes",
+            "masteryRanks": 5
+        },
+        {
+            "masteryID": "masterySprint",
+            "masteryRanks": 3
+        },
+        {
+            "masteryID": "masteryPiercingStrikes",
+            "masteryRanks": 5
+        },
+        {
+            "masteryID": "masteryIncapacitate",
+            "masteryRanks": 3
+        },
+        {
+            "masteryID": "masteryUnlimitedPower",
+            "masteryRanks": 1
+        }
+    ],
+    "primaryAbility": {
+        "abilityID": "weaponSetThiefsDaggerThiefsDagger",
+        "runePriority": 1,
+        "runeIDs": [
+            "runeZir",
+            "runeAth",
+            "runeYrk"
+        ]
+    },
+    "primaryEldritchAbility": {
+        "abilityID": "Random",
+        "runePriority": 1,
+        "runeIDs": []
+    },
+    "powerAbility": {
+        "abilityID": "abilityHolyBolts",
+        "runePriority": 2,
+        "runeIDs": [
+            "runeDjar",
+            "runeZho",
+            "runeIrd"
+        ]
+    },
+    "passiveAbility": {
+        "abilityID": "abilityAuraOfJudgment",
+        "runePriority": 3,
+        "runeIDs": [
+            "runeAnh",
+            "runeRath",
+            "runeYiln",
+            "runeUnh",
+            "runeOnh"
+        ]
+    },
+    "movementAbility": {
+        "abilityID": "abilityBladeDash",
+        "runePriority": 4,
+        "runeIDs": [
+            "runeYdr",
+            "runeXal",
+            "runeBik"
+        ]
+    },
+    "headGear": {
+        "rarity": 0,
+        "rarityFilter": 0,
+        "gearSetID": "armorSetTheBarrel",
+        "setRequired": true,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "chestGear": {
+        "rarity": 2,
+        "rarityFilter": 1,
+        "gearSetID": "armorSetChainmail",
+        "setRequired": true,
+        "stats": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "statRequired": [
+            true,
+            true,
+            true,
+            true
+        ],
+        "exceptionalStat": 54,
+        "exceptionalStatRequired": true,
+        "passiveAbilityID": "abilityAuraOfJudgment",
+        "passiveRequired": true
+    },
+    "handsGear": {
+        "rarity": 15,
+        "rarityFilter": 0,
+        "gearSetID": "Random",
+        "setRequired": false,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "legsGear": {
+        "rarity": 1,
+        "rarityFilter": 0,
+        "gearSetID": "armorSetNightSentry",
+        "setRequired": true,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "feetGear": {
+        "rarity": 2,
+        "rarityFilter": 1,
+        "gearSetID": "armorSetBandit",
+        "setRequired": true,
+        "stats": [
+            0
+        ],
+        "statRequired": [
+            false
+        ],
+        "exceptionalStat": 38,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "abilityAuraOfJudgment",
+        "passiveRequired": true
+    },
+    "artifactIDs": [
+        "artifactBloodOfUlthVuul",
+        "artifactRingOfRuin"
+    ],
+    "forceArtifactPickOrder": false,
+    "eldritchItemID": "armorSetFulskar",
+    "requiredSoulFragmentStats": [
+        21,
+        24,
+        54,
+        72,
+        0,
+        47,
+        75,
+        100,
+        35,
+        7,
+        3,
+        2,
+        6,
+        31,
+        67,
+        70,
+        15,
+        49,
+        64,
+        33,
+        34,
+        38,
+        56,
+        22,
+        17,
+        66,
+        8,
+        42
+    ],
+    "preferredSoulFragmentStats": [],
+    "excludedSoulFragmentStats": []
+}

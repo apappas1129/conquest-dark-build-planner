@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" style="position:absolute" aria-hidden="true">
+<symbol id="r-adr" viewBox="0 0 24 24"><path d="M9.39 3 L19.29 12.9 L11.19 21 L4.71 14.51 L8.88 10.33 L12.44 13.89"/></symbol>
+<symbol id="r-anh" viewBox="0 0 24 24"><path d="M9.79 21 L9.81 14.42 L3 14.42 L14.42 3 L14.42 9.81 L21 9.79"/></symbol>
+<symbol id="r-ath" viewBox="0 0 24 24"><path d="M3 20.8 L21 20.8 M12 3.2 L12 20.8 L5.2 14 M12 20.8 L18.8 14"/></symbol>
+<symbol id="r-azh" viewBox="0 0 24 24"><path d="M16.98 7.98 L12 3 L12 21 M12 12 L7.02 16.98"/></symbol>
+<symbol id="r-bik" viewBox="0 0 24 24"><path d="M12 3 L12 21 M17.89 21 L12 15.11 L6.11 21 M17.89 3 L12 8.89 L6.11 3"/></symbol>
+<symbol id="r-dik" viewBox="0 0 24 24"><path d="M12 3.2 L12 20.8 M3 19.9 L12 10.9 L21 19.9"/></symbol>
+<symbol id="r-djar" viewBox="0 0 24 24"><path d="M7.74 5.12 L7.74 18.88 L3 14.14 M12 5.12 L12 18.88 M16.26 5.12 L16.26 18.88 L21 14.14"/></symbol>
+<symbol id="r-djur" viewBox="0 0 24 24"><path d="M7.7 3 L7.7 21 M16.3 3.4 L7.7 12"/></symbol>
+<symbol id="r-dyr" viewBox="0 0 24 24"><path d="M7 8.2 L12 3.2 L12 20.8 M12 3.2 L17 8.2 M7 15.2 L12 10.2 L17 15.2"/></symbol>
+<symbol id="r-gul" viewBox="0 0 24 24"><path d="M12 3 L21 12 L12 21 L3 12 Z"/></symbol>
+<symbol id="r-ird" viewBox="0 0 24 24"><path d="M18.61 9.61 L12 3 L12 21 L5.39 14.39"/></symbol>
+<symbol id="r-kar" viewBox="0 0 24 24"><path d="M12 3 L12 21 M5.75 5.75 L18.25 18.25 M5.75 18.25 L18.25 5.75"/></symbol>
+<symbol id="r-kyn" viewBox="0 0 24 24"><path d="M5.86 3 L5.86 21 L18.14 8.71 M5.86 12 L9.14 8.71"/></symbol>
+<symbol id="r-lith" viewBox="0 0 24 24"><mask id="m-r-lith" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24"><rect width="24" height="24" fill="#fff"/><path d="M12 0 L12 24" stroke="#000" stroke-width="5.25" stroke-linecap="butt"/></mask><g mask="url(#m-r-lith)"><path d="M3 12 L21 12 M3 12 A9 9 0 0 1 21 12 M21 12 A9 9 0 0 1 3 12"/></g></symbol>
+<symbol id="r-mak" viewBox="0 0 24 24"><path d="M9.35 3.2 L9.35 20.8 M14.65 3.2 L14.65 20.8 M4.1 5.1 L9.35 10.35 M14.65 10.35 L19.9 5.1"/></symbol>
+<symbol id="r-oda" viewBox="0 0 24 24"><path d="M12.8 3.26 L3.26 12.8 M21 11.46 L16.16 6.62 L6.62 16.16 L11.46 21 M3 3 L16.23 16.23"/></symbol>
+<symbol id="r-odo" viewBox="0 0 24 24"><path d="M3.26 11.2 L12.8 20.74 M11.46 3 L6.62 7.84 L16.16 17.38 L21 12.54 M3 21 L16.23 7.77"/></symbol>
+<symbol id="r-odu" viewBox="0 0 24 24"><path d="M11.2 20.74 L20.74 11.2 M3 12.54 L7.84 17.38 L17.38 7.84 L12.54 3 M21 21 L7.77 7.77"/></symbol>
+<symbol id="r-ody" viewBox="0 0 24 24"><path d="M20.74 12.8 L11.2 3.26 M12.54 21 L17.38 16.16 L7.84 6.62 L3 11.46 M21 3 L7.77 16.23"/></symbol>
+<symbol id="r-onh" viewBox="0 0 24 24"><path d="M21 14.21 L14.42 14.19 L14.42 21 L3 9.58 L9.81 9.58 L9.79 3"/></symbol>
+<symbol id="r-oth" viewBox="0 0 24 24"><path d="M3 20.8 L21 20.8 M12 3.2 L12 20.8 L18.5 14.3"/></symbol>
+<symbol id="r-pok" viewBox="0 0 24 24"><path d="M3 9.36 L9.21 3.15 L9.21 20.85 M21 9.36 L14.79 3.15 L14.79 20.85"/></symbol>
+<symbol id="r-rath" viewBox="0 0 24 24"><path d="M3 12 L21 12 M5.75 5.75 L18.25 18.25 M5.75 18.25 L18.25 5.75"/></symbol>
+<symbol id="r-ujr" viewBox="0 0 24 24"><path d="M7.4 3 L7.4 21 M16.6 3 L16.6 21 M7.4 7.4 L16.6 16.6 M7.4 16.6 L16.6 7.4"/></symbol>
+<symbol id="r-unh" viewBox="0 0 24 24"><path d="M14.21 3 L14.19 9.58 L21 9.58 L9.58 21 L9.58 14.19 L3 14.21"/></symbol>
+<symbol id="r-uth" viewBox="0 0 24 24"><path d="M3 20.8 L21 20.8 M12 3.2 L12 20.8 L5.5 14.3"/></symbol>
+<symbol id="r-xal" viewBox="0 0 24 24"><path d="M3 12 L21 12 M12 3 L12 21 M12 12 L18.36 18.36"/></symbol>
+<symbol id="r-xol" viewBox="0 0 24 24"><path d="M12 21 L12 3 M3 12 L21 12 M12 12 L18.36 5.64"/></symbol>
+<symbol id="r-xul" viewBox="0 0 24 24"><path d="M21 12 L3 12 M12 21 L12 3 M12 12 L5.64 5.64"/></symbol>
+<symbol id="r-xyl" viewBox="0 0 24 24"><path d="M12 3 L12 21 M21 12 L3 12 M12 12 L5.64 18.36"/></symbol>
+<symbol id="r-xyth" viewBox="0 0 24 24"><path d="M6.8 3 L12 12 L6.8 21 M17.2 3 L12 12 L17.2 21 M9.04 17.13 L3.91 12 L9.04 6.87 M14.96 17.13 L20.09 12 L14.96 6.87"/></symbol>
+<symbol id="r-ydr" viewBox="0 0 24 24"><path d="M14.61 21 L4.71 11.1 L12.81 3 L19.29 9.49 L15.12 13.67 L11.56 10.11"/></symbol>
+<symbol id="r-yiln" viewBox="0 0 24 24"><path d="M15.71 21 L6.71 12 L15.71 3 M8.29 21 L17.29 12 L8.29 3"/></symbol>
+<symbol id="r-yrk" viewBox="0 0 24 24"><path d="M12 3.2 L12 20.8 M18.3 18.3 L12 12 L5.7 18.3"/></symbol>
+<symbol id="r-yth" viewBox="0 0 24 24"><path d="M3 20.8 L21 20.8 M12 3.2 L12 20.8"/></symbol>
+<symbol id="r-zha" viewBox="0 0 24 24"><path d="M9.73 3 L5.24 7.49 L18.76 21 L18.76 10.97"/></symbol>
+<symbol id="r-zho" viewBox="0 0 24 24"><path d="M3 14.27 L7.49 18.76 L21 5.24 L10.97 5.24"/></symbol>
+<symbol id="r-zhu" viewBox="0 0 24 24"><path d="M14.27 21 L18.76 16.51 L5.24 3 L5.24 13.03"/></symbol>
+<symbol id="r-zhy" viewBox="0 0 24 24"><path d="M21 9.73 L16.51 5.24 L3 18.76 L13.03 18.76"/></symbol>
+<symbol id="r-zir" viewBox="0 0 24 24"><path d="M12 9.33 L6.75 4.08 L6.75 19.92 M12 14.67 L17.25 19.92 L17.25 4.08"/></symbol>
+</svg>

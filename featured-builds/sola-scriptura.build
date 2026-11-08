@@ -1,0 +1,202 @@
+{
+  "savedWithGameVersion": "0.21.1",
+  "buildName": "Sola Scriptura",
+  "buildAuthor": "firepreacher666",
+  "buildCategory": 0,
+  "buildDescription": "Meme build: the Book (Divine Purge, Book of Aura) and the burning hands (Sur'thunar, Bindings of the Primordial Fire). Divine Purge is not a projectile attack, it hits Target Amount enemies per swing, so Target Amount comes first: Radiance first, Night Sentry Leathers, Rune Mak, and Target Amount at the top of the Soul Fragment list. Then the weapon does the work. Each Purge Hit rolls Chance To Burn (Burn Intensity +250% from the gloves), each burn tick can burst Brand of Flame (no cooldown, Increased Proc Chance from the Runewords, Artifact Damage +500% from Footwraps of False Prophecy) and Ring of Ruin makes every burst Hit count. Human Oathkeeper, no Auraborean. Power, Passive and Movement Abilities only hold Runewords. Needs a crowd: a lone boss does not burn well. Glass cannon.",
+  "buildTags": [
+    2,
+    0
+  ],
+  "raceID": "raceHuman",
+  "classID": "classAcolyteOfKuu",
+  "originID": "originDishonoredChampion",
+  "masteryEntries": [
+    {
+      "masteryID": "masteryBarrage",
+      "masteryRanks": 5
+    },
+    {
+      "masteryID": "masteryCallOfTheWintermoon",
+      "masteryRanks": 5
+    },
+    {
+      "masteryID": "masteryAstralReach",
+      "masteryRanks": 5
+    },
+    {
+      "masteryID": "masteryBarrierMastery",
+      "masteryRanks": 5
+    },
+    {
+      "masteryID": "masteryObliterate",
+      "masteryRanks": 3
+    },
+    {
+      "masteryID": "masteryDeathsEmbrace",
+      "masteryRanks": 3
+    }
+  ],
+  "primaryAbility": {
+    "abilityID": "weaponSetDivinePurgeBookOfAura",
+    "runePriority": 1,
+    "runeIDs": [
+      "runeOnh",
+      "runeYiln",
+      "runeKar",
+      "runeMak",
+      "runeOdu"
+    ]
+  },
+  "primaryEldritchAbility": {
+    "abilityID": "",
+    "runePriority": 5,
+    "runeIDs": []
+  },
+  "powerAbility": {
+    "abilityID": "abilityFrostfall",
+    "runePriority": 3,
+    "runeIDs": [
+      "runeXyth",
+      "runeZho",
+      "runeIrd"
+    ]
+  },
+  "passiveAbility": {
+    "abilityID": "abilityFreezingVortex",
+    "runePriority": 4,
+    "runeIDs": [
+      "runeXyth",
+      "runeUth",
+      "runeXul"
+    ]
+  },
+  "movementAbility": {
+    "abilityID": "abilityFallingComet",
+    "runePriority": 2,
+    "runeIDs": [
+      "runeAdr",
+      "runeXol",
+      "runeUnh"
+    ]
+  },
+  "headGear": {
+    "rarity": 1,
+    "rarityFilter": 1,
+    "gearSetID": "armorSetIliossia",
+    "setRequired": true,
+    "stats": [
+      0,
+      2
+    ],
+    "statRequired": [
+      false,
+      false
+    ],
+    "exceptionalStat": 72,
+    "exceptionalStatRequired": true,
+    "passiveAbilityID": "Random",
+    "passiveRequired": false
+  },
+  "chestGear": {
+    "rarity": 1,
+    "rarityFilter": 1,
+    "gearSetID": "armorSetIliossia",
+    "setRequired": true,
+    "stats": [
+      0,
+      3
+    ],
+    "statRequired": [
+      false,
+      false
+    ],
+    "exceptionalStat": 72,
+    "exceptionalStatRequired": true,
+    "passiveAbilityID": "Random",
+    "passiveRequired": false
+  },
+  "handsGear": {
+    "rarity": 0,
+    "rarityFilter": 2,
+    "gearSetID": "Random",
+    "setRequired": false,
+    "stats": [],
+    "statRequired": [],
+    "exceptionalStat": -1,
+    "exceptionalStatRequired": false,
+    "passiveAbilityID": "Random",
+    "passiveRequired": false
+  },
+  "legsGear": {
+    "rarity": 1,
+    "rarityFilter": 2,
+    "gearSetID": "armorSetNightSentry",
+    "setRequired": true,
+    "stats": [],
+    "statRequired": [],
+    "exceptionalStat": -1,
+    "exceptionalStatRequired": false,
+    "passiveAbilityID": "Random",
+    "passiveRequired": false
+  },
+  "feetGear": {
+    "rarity": 1,
+    "rarityFilter": 1,
+    "gearSetID": "armorSetIliossia",
+    "setRequired": true,
+    "stats": [
+      0
+    ],
+    "statRequired": [
+      false
+    ],
+    "exceptionalStat": 15,
+    "exceptionalStatRequired": true,
+    "passiveAbilityID": "Random",
+    "passiveRequired": false
+  },
+  "artifactIDs": [
+    "artifactBrandOfFlame",
+    "artifactRingOfRuin"
+  ],
+  "forceArtifactPickOrder": true,
+  "eldritchItemID": "armorSetSurthunar",
+  "requiredSoulFragmentStats": [
+    72,
+    55,
+    70,
+    2,
+    3,
+    25,
+    8,
+    17,
+    49,
+    50,
+    64,
+    21,
+    75,
+    31,
+    6,
+    4,
+    56,
+    15,
+    24,
+    47,
+    0,
+    65,
+    34,
+    36,
+    33,
+    35,
+    100,
+    46,
+    45,
+    54,
+    42,
+    12,
+    13
+  ],
+  "preferredSoulFragmentStats": [],
+  "excludedSoulFragmentStats": []
+}

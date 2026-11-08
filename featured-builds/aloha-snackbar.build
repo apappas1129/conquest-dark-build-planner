@@ -1,0 +1,253 @@
+{
+    "savedWithGameVersion": "0.21.1",
+    "buildName": "Aloha Snackbar, Lethal Hijab",
+    "buildAuthor": "Aisha06",
+    "buildCategory": 0,
+    "buildDescription": "",
+    "buildTags": [
+        2,
+        0
+    ],
+    "raceID": "raceHuman",
+    "classID": "classHunter",
+    "originID": "originHuntersApprentice",
+    "masteryEntries": [
+        {
+            "masteryID": "masteryMultiShot",
+            "masteryRanks": 5
+        },
+        {
+            "masteryID": "masteryAlacrity",
+            "masteryRanks": 5
+        },
+        {
+            "masteryID": "masteryAimedShots",
+            "masteryRanks": 3
+        },
+        {
+            "masteryID": "masteryElementalMastery",
+            "masteryRanks": 3
+        },
+        {
+            "masteryID": "masterySprint",
+            "masteryRanks": 3
+        },
+        {
+            "masteryID": "masterySurvicalTactics",
+            "masteryRanks": 3
+        },
+        {
+            "masteryID": "masteryUnlimitedPower",
+            "masteryRanks": 1
+        }
+    ],
+    "primaryAbility": {
+        "abilityID": "weaponSetShortBow",
+        "runePriority": 2,
+        "runeIDs": [
+            "runeDyr",
+            "runeZir",
+            "runeXol"
+        ]
+    },
+    "primaryEldritchAbility": {
+        "abilityID": "",
+        "runePriority": 1,
+        "runeIDs": []
+    },
+    "powerAbility": {
+        "abilityID": "abilityFireArrowBarrage",
+        "runePriority": 1,
+        "runeIDs": [
+            "runeYiln",
+            "runeXul",
+            "runeIrd",
+            "runePok",
+            "runeBik"
+        ]
+    },
+    "passiveAbility": {
+        "abilityID": "abilityBurstShot",
+        "runePriority": 3,
+        "runeIDs": [
+            "runeYdr",
+            "runeXyl",
+            "runeZhy"
+        ]
+    },
+    "movementAbility": {
+        "abilityID": "abilityDisengage",
+        "runePriority": 4,
+        "runeIDs": [
+            "runeYrk",
+            "runeZha",
+            "runeAdr"
+        ]
+    },
+    "headGear": {
+        "rarity": 15,
+        "rarityFilter": 0,
+        "gearSetID": "Random",
+        "setRequired": false,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": 0,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "chestGear": {
+        "rarity": 0,
+        "rarityFilter": 0,
+        "gearSetID": "armorSetChainmail",
+        "setRequired": true,
+        "stats": [
+            0,
+            2,
+            8,
+            6
+        ],
+        "statRequired": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "handsGear": {
+        "rarity": 0,
+        "rarityFilter": 0,
+        "gearSetID": "armorSetBloodSoakedFists",
+        "setRequired": true,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "legsGear": {
+        "rarity": 0,
+        "rarityFilter": 0,
+        "gearSetID": "armorSetChainmail",
+        "setRequired": true,
+        "stats": [
+            0,
+            2,
+            66,
+            56
+        ],
+        "statRequired": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "feetGear": {
+        "rarity": 0,
+        "rarityFilter": 0,
+        "gearSetID": "armorSetSavage",
+        "setRequired": true,
+        "stats": [
+            3
+        ],
+        "statRequired": [
+            false
+        ],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "artifactIDs": [
+        "artifactAncientArrowhead",
+        "artifactRingOfRuin"
+    ],
+    "forceArtifactPickOrder": true,
+    "eldritchItemID": "armorSetUmbrothuun",
+    "requiredSoulFragmentStats": [
+        22,
+        0,
+        55,
+        19,
+        47,
+        24,
+        20,
+        2,
+        3,
+        8,
+        6,
+        66,
+        56,
+        64,
+        4,
+        15,
+        70,
+        49,
+        95,
+        67,
+        65,
+        7,
+        68,
+        27,
+        28,
+        30,
+        29,
+        51,
+        41,
+        50,
+        42,
+        33,
+        34,
+        35,
+        75,
+        31,
+        52,
+        53,
+        40,
+        38,
+        101,
+        43,
+        12,
+        13,
+        17,
+        18,
+        1,
+        54,
+        72,
+        73,
+        83,
+        14,
+        69,
+        96,
+        97,
+        39,
+        21,
+        10,
+        100
+    ],
+    "preferredSoulFragmentStats": [],
+    "excludedSoulFragmentStats": [
+        36,
+        45,
+        26,
+        46,
+        79,
+        92,
+        93,
+        94,
+        9,
+        16,
+        71,
+        25
+    ]
+}

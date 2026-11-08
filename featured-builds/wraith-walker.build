@@ -1,0 +1,245 @@
+{
+    "savedWithGameVersion": "0.21.1",
+    "buildName": "WRAITH WALKER",
+    "buildAuthor": "Velkyn",
+    "buildCategory": 0,
+    "buildDescription": "Wraith hits taunt enemies off you with no Combat Condition Resistance check. Wraiths are damage-immune, so each one soaks aggro for its full 3 s. Wraith count, reach and arc decide survival, unlike freeze or knockback.\n\nReused wraiths roll their old Rapid Attack Chance against the self-kill timer, which can cut some to 0.75 s instead of 3 s. So this build takes no Rapid Attack Chance.\n\nNo cap on living wraiths; the limit is dash speed. A dash makes (1 + min(2, Ally Summon Amount)) x 5, at most 15. Chain-dashing for 3 s peaks near 45 alive: back-to-back banked charges, or Golden Feather at 100% refund. With normal recharge the average is about 23, about 25 at Recharge +520%. A burst from 5 banked charges peaks near 45 for a few seconds, then falls to the recharge-limited rate.\n\nGolden Feather loses the i-frames, a core survival part together with the 3 s aggro. It fits Normal or Shattered Rituals when paired with high Proc Chance before mid tiers.",
+    "buildTags": [
+        2,
+        0
+    ],
+    "raceID": "raceForlorn",
+    "classID": "classNecrolord",
+    "originID": "originCultInitiate",
+    "masteryEntries": [
+        {
+            "masteryID": "masteryLordOfTheDead",
+            "masteryRanks": 2
+        },
+        {
+            "masteryID": "masteryNecroticMight",
+            "masteryRanks": 3
+        },
+        {
+            "masteryID": "masteryDreadSurge",
+            "masteryRanks": 2
+        },
+        {
+            "masteryID": "masteryLordOfTheDead",
+            "masteryRanks": 1
+        },
+        {
+            "masteryID": "masteryResilience",
+            "masteryRanks": 3
+        },
+        {
+            "masteryID": "masteryDreadSurge",
+            "masteryRanks": 3
+        },
+        {
+            "masteryID": "masteryShadowOfTheBlackPlanet",
+            "masteryRanks": 5
+        },
+        {
+            "masteryID": "masteryCallOfTheWintermoon",
+            "masteryRanks": 3
+        }
+    ],
+    "primaryAbility": {
+        "abilityID": "weaponSetRunebladeRuneblade",
+        "runePriority": 1,
+        "runeIDs": [
+            "runeXyl",
+            "runeUnh",
+            "runeXol"
+        ]
+    },
+    "primaryEldritchAbility": {
+        "abilityID": "",
+        "runePriority": 1,
+        "runeIDs": []
+    },
+    "powerAbility": {
+        "abilityID": "abilityCurseBolt",
+        "runePriority": 4,
+        "runeIDs": [
+            "runeYiln",
+            "runeRath",
+            "runeOdy",
+            "runeIrd",
+            "runeDjur"
+        ]
+    },
+    "passiveAbility": {
+        "abilityID": "abilityAuraOfDecay",
+        "runePriority": 3,
+        "runeIDs": [
+            "runeOda",
+            "runeKyn",
+            "runeXyl"
+        ]
+    },
+    "movementAbility": {
+        "abilityID": "abilityWraithwalk",
+        "runePriority": 2,
+        "runeIDs": [
+            "runeDik",
+            "runeBik",
+            "runeYth"
+        ]
+    },
+    "headGear": {
+        "rarity": 1,
+        "rarityFilter": 0,
+        "gearSetID": "armorSetKharathia",
+        "setRequired": false,
+        "stats": [
+            0,
+            31
+        ],
+        "statRequired": [
+            false,
+            false
+        ],
+        "exceptionalStat": 51,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "chestGear": {
+        "rarity": 11,
+        "rarityFilter": 2,
+        "gearSetID": "armorSetKynorath",
+        "setRequired": true,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "handsGear": {
+        "rarity": 0,
+        "rarityFilter": 2,
+        "gearSetID": "armorSetDeathspeaker",
+        "setRequired": true,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "legsGear": {
+        "rarity": 1,
+        "rarityFilter": 0,
+        "gearSetID": "armorSetKharathia",
+        "setRequired": false,
+        "stats": [
+            0,
+            31
+        ],
+        "statRequired": [
+            false,
+            false
+        ],
+        "exceptionalStat": 51,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "feetGear": {
+        "rarity": 1,
+        "rarityFilter": 2,
+        "gearSetID": "armorSetGullstigrs",
+        "setRequired": true,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "artifactIDs": [
+        "artifactRingOfRuin",
+        "artifactEdgeOfDarkness"
+    ],
+    "forceArtifactPickOrder": false,
+    "eldritchItemID": "armorSetKynorath",
+    "requiredSoulFragmentStats": [
+        51,
+        55,
+        100,
+        31,
+        68,
+        93,
+        64,
+        3,
+        42,
+        54,
+        95,
+        97,
+        49,
+        21,
+        0,
+        2,
+        10,
+        6,
+        17,
+        92,
+        38,
+        41,
+        96,
+        75,
+        36,
+        13,
+        12,
+        56,
+        33,
+        34,
+        35,
+        1,
+        4,
+        7,
+        8,
+        9,
+        18,
+        39,
+        40,
+        43,
+        52,
+        65,
+        66,
+        67,
+        94,
+        14,
+        15,
+        16,
+        19,
+        20,
+        22,
+        24,
+        27,
+        28,
+        29,
+        30,
+        45,
+        46,
+        50,
+        53,
+        69,
+        70,
+        71,
+        72,
+        73,
+        25,
+        26,
+        79,
+        83,
+        101
+    ],
+    "preferredSoulFragmentStats": [],
+    "excludedSoulFragmentStats": [
+        47
+    ]
+}

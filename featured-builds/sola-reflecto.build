@@ -1,0 +1,238 @@
+{
+  "savedWithGameVersion": "0.21.5",
+  "buildName": "BOFURI",
+  "buildAuthor": "maplechrome420",
+  "buildCategory": 0,
+  "buildDescription": "Oathkeeper reflect tank for the Endless Ritual. Block, reflect, repeat: Lampeia's Mirror spreads each reflect, Ring of Ruin stacks it, Aura of Sol and Primal Roar keep it stacking. Returned damage only: no damage stat. Each Runeword is active with 0 Runeword Discovery.",
+  "buildTags": [
+    2
+  ],
+  "raceID": "raceHuman",
+  "classID": "classOathkeeper",
+  "originID": "originSavageUpbringing",
+  "masteryEntries": [
+    {
+      "masteryID": "masteryArdentDefender",
+      "masteryRanks": 5
+    },
+    {
+      "masteryID": "masteryBulwark",
+      "masteryRanks": 5
+    },
+    {
+      "masteryID": "masteryRecovery",
+      "masteryRanks": 3
+    },
+    {
+      "masteryID": "masteryRadiance",
+      "masteryRanks": 5
+    },
+    {
+      "masteryID": "masteryFlashOfLight",
+      "masteryRanks": 5
+    },
+    {
+      "masteryID": "masteryPraiseTheSun",
+      "masteryRanks": 5
+    },
+    {
+      "masteryID": "masteryUnlimitedPower",
+      "masteryRanks": 1
+    }
+  ],
+  "primaryAbility": {
+    "abilityID": "weaponSetBrutalFlailBattlefieldShield",
+    "runePriority": 1,
+    "runeIDs": [
+      "runeXol",
+      "runeDik",
+      "runeYiln",
+      "runeXol",
+      "runeBik"
+    ]
+  },
+  "primaryEldritchAbility": {
+    "abilityID": "Random",
+    "runePriority": 1,
+    "runeIDs": []
+  },
+  "powerAbility": {
+    "abilityID": "abilityPrimalRoar",
+    "runePriority": 2,
+    "runeIDs": [
+      "runeRath",
+      "runeIrd",
+      "runeXyl"
+    ]
+  },
+  "passiveAbility": {
+    "abilityID": "abilityAuraOfSol",
+    "runePriority": 4,
+    "runeIDs": [
+      "runeXul",
+      "runeXol",
+      "runeXyl"
+    ]
+  },
+  "movementAbility": {
+    "abilityID": "abilityDeathRush",
+    "runePriority": 3,
+    "runeIDs": [
+      "runeZha",
+      "runeAdr",
+      "runeOdu"
+    ]
+  },
+  "headGear": {
+    "rarity": 1,
+    "rarityFilter": 2,
+    "gearSetID": "armorSetSoulVeil",
+    "setRequired": true,
+    "stats": [],
+    "statRequired": [],
+    "exceptionalStat": -1,
+    "exceptionalStatRequired": false,
+    "passiveAbilityID": "Random",
+    "passiveRequired": false
+  },
+  "chestGear": {
+    "rarity": 15,
+    "rarityFilter": 0,
+    "gearSetID": "Random",
+    "setRequired": false,
+    "stats": [],
+    "statRequired": [],
+    "exceptionalStat": -1,
+    "exceptionalStatRequired": false,
+    "passiveAbilityID": "Random",
+    "passiveRequired": false
+  },
+  "handsGear": {
+    "rarity": 1,
+    "rarityFilter": 2,
+    "gearSetID": "armorSetObsidianGuard",
+    "setRequired": true,
+    "stats": [],
+    "statRequired": [],
+    "exceptionalStat": -1,
+    "exceptionalStatRequired": false,
+    "passiveAbilityID": "Random",
+    "passiveRequired": false
+  },
+  "legsGear": {
+    "rarity": 1,
+    "rarityFilter": 2,
+    "gearSetID": "armorSetSunblessed",
+    "setRequired": true,
+    "stats": [
+      36,
+      31
+    ],
+    "statRequired": [
+      false,
+      false
+    ],
+    "exceptionalStat": 46,
+    "exceptionalStatRequired": false,
+    "passiveAbilityID": "Random",
+    "passiveRequired": false
+  },
+  "feetGear": {
+    "rarity": 1,
+    "rarityFilter": 2,
+    "gearSetID": "armorSetSunblessed",
+    "setRequired": true,
+    "stats": [
+      36
+    ],
+    "statRequired": [
+      false
+    ],
+    "exceptionalStat": 46,
+    "exceptionalStatRequired": false,
+    "passiveAbilityID": "Random",
+    "passiveRequired": false
+  },
+  "artifactIDs": [
+    "artifactLampeiasMirror",
+    "artifactRingOfRuin"
+  ],
+  "forceArtifactPickOrder": false,
+  "eldritchItemID": "armorSetBrunjarn",
+  "requiredSoulFragmentStats": [
+    46,
+    79,
+    33,
+    34,
+    35,
+    36,
+    75,
+    21,
+    10,
+    26,
+    31,
+    42,
+    45,
+    54,
+    13,
+    17,
+    100,
+    12,
+    43,
+    39,
+    101,
+    40,
+    41,
+    51,
+    30,
+    29,
+    53,
+    19,
+    20,
+    94,
+    92
+  ],
+  "preferredSoulFragmentStats": [],
+  "excludedSoulFragmentStats": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    18,
+    52,
+    56,
+    65,
+    66,
+    67,
+    68,
+    93,
+    95,
+    14,
+    15,
+    16,
+    22,
+    24,
+    27,
+    28,
+    38,
+    47,
+    49,
+    50,
+    55,
+    69,
+    70,
+    71,
+    72,
+    73,
+    64,
+    25,
+    83,
+    96,
+    97
+  ]
+}

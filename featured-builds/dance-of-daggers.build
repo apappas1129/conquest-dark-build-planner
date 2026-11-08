@@ -1,0 +1,210 @@
+{
+    "savedWithGameVersion": "0.21.1",
+    "buildName": "House of Flying Daggers 2.0",
+    "buildAuthor": "Zellgoddess2000",
+    "buildCategory": 0,
+    "buildDescription": "Derived from Zellgoddess2000's build. See https://steamcommunity.com/app/3238670/discussions/0/582804027998408963",
+    "buildTags": [
+        2,
+        0
+    ],
+    "raceID": "raceHuman",
+    "classID": "classThief",
+    "originID": "originCultInitiate",
+    "masteryEntries": [
+        {
+            "masteryID": "masteryAcrobatics",
+            "masteryRanks": 3
+        },
+        {
+            "masteryID": "masterySprint",
+            "masteryRanks": 3
+        },
+        {
+            "masteryID": "masteryDeadlyStrikes",
+            "masteryRanks": 5
+        },
+        {
+            "masteryID": "masteryPiercingStrikes",
+            "masteryRanks": 5
+        },
+        {
+            "masteryID": "masteryAlacrity",
+            "masteryRanks": 5
+        },
+        {
+            "masteryID": "masteryIncapacitate",
+            "masteryRanks": 3
+        },
+        {
+            "masteryID": "masteryUnlimitedPower",
+            "masteryRanks": 1
+        }
+    ],
+    "primaryAbility": {
+        "abilityID": "weaponSetThrowingKnifeThrowingKnife",
+        "runePriority": 2,
+        "runeIDs": [
+            "runeZir",
+            "runeXol",
+            "runeUth"
+        ]
+    },
+    "primaryEldritchAbility": {
+        "abilityID": "Random",
+        "runePriority": 1,
+        "runeIDs": []
+    },
+    "powerAbility": {
+        "abilityID": "abilityFanOfKnives",
+        "runePriority": 3,
+        "runeIDs": [
+            "runeKyn",
+            "runeIrd",
+            "runeXyl"
+        ]
+    },
+    "passiveAbility": {
+        "abilityID": "abilityCounterThrow",
+        "runePriority": 4,
+        "runeIDs": [
+            "runeDik",
+            "runeXyl",
+            "runeXyl"
+        ]
+    },
+    "movementAbility": {
+        "abilityID": "abilityDanceOfDaggers",
+        "runePriority": 1,
+        "runeIDs": [
+            "runeYiln",
+            "runeOdo",
+            "runeZha",
+            "runeDjar",
+            "runeUnh"
+        ]
+    },
+    "headGear": {
+        "rarity": 2,
+        "rarityFilter": 2,
+        "gearSetID": "armorSetMindFocusing",
+        "setRequired": false,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "chestGear": {
+        "rarity": 2,
+        "rarityFilter": 2,
+        "gearSetID": "armorSetBandit",
+        "setRequired": false,
+        "stats": [
+            6,
+            0
+        ],
+        "statRequired": [
+            false,
+            false
+        ],
+        "exceptionalStat": 51,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "abilityCounterThrow",
+        "passiveRequired": true
+    },
+    "handsGear": {
+        "rarity": 2,
+        "rarityFilter": 2,
+        "gearSetID": "armorSetStalker",
+        "setRequired": false,
+        "stats": [
+            3,
+            3
+        ],
+        "statRequired": [
+            false,
+            false
+        ],
+        "exceptionalStat": 22,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "abilityCounterThrow",
+        "passiveRequired": true
+    },
+    "legsGear": {
+        "rarity": 2,
+        "rarityFilter": 2,
+        "gearSetID": "armorSetChainmail",
+        "setRequired": false,
+        "stats": [
+            68,
+            2,
+            2,
+            68
+        ],
+        "statRequired": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "exceptionalStat": 41,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "abilityCounterThrow",
+        "passiveRequired": true
+    },
+    "feetGear": {
+        "rarity": 1,
+        "rarityFilter": 2,
+        "gearSetID": "armorSetGullstigrs",
+        "setRequired": false,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "artifactIDs": [
+        "artifactRingOfRuin",
+        "artifactEdgeOfDarkness"
+    ],
+    "forceArtifactPickOrder": false,
+    "eldritchItemID": "armorSetKynorath",
+    "requiredSoulFragmentStats": [
+        55,
+        49,
+        64,
+        42,
+        31,
+        21,
+        75,
+        100,
+        10,
+        38,
+        4,
+        12,
+        33,
+        34,
+        35,
+        39,
+        43,
+        52,
+        93,
+        94,
+        95,
+        27,
+        28,
+        29,
+        30,
+        50,
+        53,
+        96,
+        97,
+        101,
+        92
+    ],
+    "preferredSoulFragmentStats": [],
+    "excludedSoulFragmentStats": []
+}

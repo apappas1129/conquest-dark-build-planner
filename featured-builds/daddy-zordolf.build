@@ -1,0 +1,185 @@
+{
+ "savedWithGameVersion": "0.21.1",
+ "buildName": "Daddy Zordolf",
+ "buildAuthor": "anonymous",
+ "buildCategory": 0,
+ "buildDescription": "Necrolord. The Skull grows Zordolf each cycle: at 10 stacks he is twice the size and his Umbral cleave covers the Arena. Shadow of the Black Planet curses what he hits, Aura of Decay kills the cursed outright, Lord of the Dead pays for his damage and health. No other Ally Unit.",
+ "buildTags": [
+  2
+ ],
+ "raceID": "raceHuman",
+ "classID": "classNecrolord",
+ "originID": "originTreasureHunter",
+ "masteryEntries": [
+  {
+   "masteryID": "masteryLordOfTheDead",
+   "masteryRanks": 3
+  },
+  {
+   "masteryID": "masteryShadowOfTheBlackPlanet",
+   "masteryRanks": 5
+  },
+  {
+   "masteryID": "masteryDreadSurge",
+   "masteryRanks": 5
+  },
+  {
+   "masteryID": "masteryResilience",
+   "masteryRanks": 3
+  },
+  {
+   "masteryID": "masteryNecroticMight",
+   "masteryRanks": 3
+  },
+  {
+   "masteryID": "masteryCallOfTheWintermoon",
+   "masteryRanks": 5
+  }
+ ],
+ "primaryAbility": {
+  "abilityID": "weaponSetSlayersSword",
+  "runePriority": 2,
+  "runeIDs": [
+   "runeZha",
+   "runeOth",
+   "runeAth"
+  ]
+ },
+ "primaryEldritchAbility": {
+  "abilityID": "weaponSetNhalzur",
+  "runePriority": 1,
+  "runeIDs": [
+   "runeYiln",
+   "runeXal",
+   "runeXal",
+   "runeUnh",
+   "runeGul",
+   "runeDik"
+  ]
+ },
+ "powerAbility": {
+  "abilityID": "abilitySeismicSlam",
+  "runePriority": 3,
+  "runeIDs": [
+   "runeRath",
+   "runeOdu",
+   "runeXal"
+  ]
+ },
+ "passiveAbility": {
+  "abilityID": "abilityAuraOfDecay",
+  "runePriority": 1,
+  "runeIDs": [
+   "runeZhu",
+   "runeXal",
+   "runeAnh"
+  ]
+ },
+ "movementAbility": {
+  "abilityID": "abilityWraithwalk",
+  "runePriority": 4,
+  "runeIDs": [
+   "runeOnh",
+   "runeZha",
+   "runeYth"
+  ]
+ },
+ "headGear": {
+  "rarity": 0,
+  "rarityFilter": 0,
+  "gearSetID": "armorSetTheBarrel",
+  "setRequired": false,
+  "stats": [],
+  "statRequired": [],
+  "exceptionalStat": -1,
+  "exceptionalStatRequired": false,
+  "passiveAbilityID": "Random",
+  "passiveRequired": false
+ },
+ "chestGear": {
+  "rarity": 1,
+  "rarityFilter": 1,
+  "gearSetID": "armorSetStalker",
+  "setRequired": true,
+  "stats": [
+   6,
+   3
+  ],
+  "statRequired": [
+   false,
+   false
+  ],
+  "exceptionalStat": -1,
+  "exceptionalStatRequired": false,
+  "passiveAbilityID": "Random",
+  "passiveRequired": false
+ },
+ "handsGear": {
+  "rarity": 1,
+  "rarityFilter": 1,
+  "gearSetID": "armorSetStalker",
+  "setRequired": true,
+  "stats": [
+   6,
+   3
+  ],
+  "statRequired": [
+   false,
+   false
+  ],
+  "exceptionalStat": -1,
+  "exceptionalStatRequired": false,
+  "passiveAbilityID": "Random",
+  "passiveRequired": false
+ },
+ "legsGear": {
+  "rarity": 1,
+  "rarityFilter": 0,
+  "gearSetID": "armorSetNightSentry",
+  "setRequired": true,
+  "stats": [],
+  "statRequired": [],
+  "exceptionalStat": -1,
+  "exceptionalStatRequired": false,
+  "passiveAbilityID": "Random",
+  "passiveRequired": false
+ },
+ "feetGear": {
+  "rarity": 1,
+  "rarityFilter": 1,
+  "gearSetID": "armorSetStalker",
+  "setRequired": true,
+  "stats": [
+   6
+  ],
+  "statRequired": [
+   false
+  ],
+  "exceptionalStat": -1,
+  "exceptionalStatRequired": false,
+  "passiveAbilityID": "Random",
+  "passiveRequired": false
+ },
+ "artifactIDs": [
+  "artifactZordolfsSeveredFinger",
+  "artifactSkullOfZoth"
+ ],
+ "forceArtifactPickOrder": false,
+ "eldritchItemID": "weaponSetNhalzur",
+ "requiredSoulFragmentStats": [
+  17,
+  93,
+  25,
+  0,
+  97,
+  96,
+  2,
+  3,
+  95,
+  47,
+  64,
+  94
+ ],
+ "preferredSoulFragmentStats": [],
+ "excludedSoulFragmentStats": []
+}

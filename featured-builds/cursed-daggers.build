@@ -1,0 +1,177 @@
+{
+    "savedWithGameVersion": "0.21.1",
+    "buildName": "CURSED DAGGERS",
+    "buildAuthor": "anonymous",
+    "buildCategory": 0,
+    "buildDescription": "Thief with Thief's Dagger and Edge of Darkness: the dagger swings (Rath-Odu-Xal: All Damage, Attack Reach) refresh Dodge Charges and cast Curse Bolt many times per s. Curse Bolt Uth-Yiln-Xul-Zhu-Unh: Lunar by Zhu, 75% freeze per bolt Hit by Uth + Xul, Frostfire burns what freezes. Exploit Weakness Ath-Xal-Anh (stun, 162 degrees more Attack Arc) hits once for each Condition on every enemy behind the target. 4 Dodge Charges, Blade Dash gives 2 more. Stand and swing.",
+    "buildTags": [
+        2,
+        0
+    ],
+    "raceID": "raceHuman",
+    "classID": "classThief",
+    "originID": "originDoomsayer",
+    "masteryEntries": [
+        {
+            "masteryID": "masteryAcrobatics",
+            "masteryRanks": 3
+        },
+        {
+            "masteryID": "masteryAlacrity",
+            "masteryRanks": 5
+        },
+        {
+            "masteryID": "masteryIncapacitate",
+            "masteryRanks": 3
+        },
+        {
+            "masteryID": "masterySprint",
+            "masteryRanks": 3
+        },
+        {
+            "masteryID": "masteryPiercingStrikes",
+            "masteryRanks": 5
+        },
+        {
+            "masteryID": "masteryDeadlyStrikes",
+            "masteryRanks": 5
+        },
+        {
+            "masteryID": "masteryUnlimitedPower",
+            "masteryRanks": 1
+        }
+    ],
+    "primaryAbility": {
+        "abilityID": "weaponSetThiefsDaggerThiefsDagger",
+        "runePriority": 1,
+        "runeIDs": [
+            "runeRath",
+            "runeOdu",
+            "runeXal"
+        ]
+    },
+    "primaryEldritchAbility": {
+        "abilityID": "Random",
+        "runePriority": 1,
+        "runeIDs": []
+    },
+    "powerAbility": {
+        "abilityID": "abilityCurseBolt",
+        "runePriority": 2,
+        "runeIDs": [
+            "runeUth",
+            "runeYiln",
+            "runeXul",
+            "runeZhu",
+            "runeUnh"
+        ]
+    },
+    "passiveAbility": {
+        "abilityID": "abilityExploitWeakness",
+        "runePriority": 3,
+        "runeIDs": [
+            "runeAth",
+            "runeXal",
+            "runeAnh"
+        ]
+    },
+    "movementAbility": {
+        "abilityID": "abilityBladeDash",
+        "runePriority": 4,
+        "runeIDs": [
+            "runeOdo",
+            "runeYdr",
+            "runeXul"
+        ]
+    },
+    "headGear": {
+        "rarity": 0,
+        "rarityFilter": 0,
+        "gearSetID": "armorSetTheBarrel",
+        "setRequired": true,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "chestGear": {
+        "rarity": 1,
+        "rarityFilter": 1,
+        "gearSetID": "armorSetSavage",
+        "setRequired": true,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": 64,
+        "exceptionalStatRequired": true,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "handsGear": {
+        "rarity": 15,
+        "rarityFilter": 0,
+        "gearSetID": "Random",
+        "setRequired": false,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "legsGear": {
+        "rarity": 1,
+        "rarityFilter": 0,
+        "gearSetID": "armorSetNightSentry",
+        "setRequired": true,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "feetGear": {
+        "rarity": 1,
+        "rarityFilter": 1,
+        "gearSetID": "armorSetSavage",
+        "setRequired": true,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": 64,
+        "exceptionalStatRequired": true,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "artifactIDs": [
+        "artifactFrostfireGem",
+        "artifactEdgeOfDarkness"
+    ],
+    "forceArtifactPickOrder": false,
+    "eldritchItemID": "armorSetFulskar",
+    "requiredSoulFragmentStats": [
+        31,
+        55,
+        38,
+        75,
+        71,
+        0,
+        97,
+        47,
+        21,
+        2,
+        70,
+        72,
+        24,
+        34,
+        35,
+        54,
+        64,
+        67,
+        49,
+        66
+    ],
+    "preferredSoulFragmentStats": [],
+    "excludedSoulFragmentStats": []
+}

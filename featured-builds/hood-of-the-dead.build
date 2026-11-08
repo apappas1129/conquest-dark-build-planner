@@ -1,0 +1,136 @@
+{
+    "savedWithGameVersion": "0.21.1",
+    "buildName": "Hood of the Dead",
+    "buildAuthor": "Aloha Snackbar, Lethal Hijab",
+    "buildCategory": 0,
+    "buildDescription": "Mock Featured Build of the Home Page. Replace it with a Build that the maintainer selects.",
+    "buildTags": [
+        0
+    ],
+    "raceID": "raceHuman",
+    "classID": "classBarbarian",
+    "originID": "originDishonoredChampion",
+    "masteryEntries": [],
+    "primaryAbility": {
+        "abilityID": "weaponSetRavagersAxeRavagersAxe",
+        "runePriority": 2,
+        "runeIDs": [
+            "runeRath",
+            "runeZir",
+            "runeXol"
+        ]
+    },
+    "primaryEldritchAbility": {
+        "abilityID": "Random",
+        "runePriority": 1,
+        "runeIDs": []
+    },
+    "powerAbility": {
+        "abilityID": "abilityHolyBolts",
+        "runePriority": 4,
+        "runeIDs": [
+            "runeIrd",
+            "runeXul",
+            "runeYiln",
+            "runeDjar",
+            "runeOth"
+        ]
+    },
+    "passiveAbility": {
+        "abilityID": "abilityAuraOfJudgment",
+        "runePriority": 1,
+        "runeIDs": [
+            "runeZhy",
+            "runeYth",
+            "runeMak"
+        ]
+    },
+    "movementAbility": {
+        "abilityID": "abilityDeathRush",
+        "runePriority": 1,
+        "runeIDs": [
+            "Random",
+            "Random",
+            "Random"
+        ]
+    },
+    "headGear": {
+        "rarity": 2,
+        "rarityFilter": 2,
+        "gearSetID": "armorSetGrandHuntress",
+        "setRequired": false,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "chestGear": {
+        "rarity": 2,
+        "rarityFilter": 0,
+        "gearSetID": "armorSetStalker",
+        "setRequired": false,
+        "stats": [
+            -1,
+            -1
+        ],
+        "statRequired": [
+            false,
+            false
+        ],
+        "exceptionalStat": 22,
+        "exceptionalStatRequired": true,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "handsGear": {
+        "rarity": 1,
+        "rarityFilter": 0,
+        "gearSetID": "Random",
+        "setRequired": false,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "legsGear": {
+        "rarity": 1,
+        "rarityFilter": 2,
+        "gearSetID": "armorSetNightSentry",
+        "setRequired": false,
+        "stats": [],
+        "statRequired": [],
+        "exceptionalStat": -1,
+        "exceptionalStatRequired": false,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "feetGear": {
+        "rarity": 2,
+        "rarityFilter": 2,
+        "gearSetID": "armorSetStalker",
+        "setRequired": false,
+        "stats": [
+            -1
+        ],
+        "statRequired": [
+            false
+        ],
+        "exceptionalStat": 22,
+        "exceptionalStatRequired": true,
+        "passiveAbilityID": "Random",
+        "passiveRequired": false
+    },
+    "artifactIDs": [
+        "artifactFrostfireGem",
+        "artifactCursemark"
+    ],
+    "forceArtifactPickOrder": true,
+    "eldritchItemID": "armorSetFulskar",
+    "requiredSoulFragmentStats": [],
+    "preferredSoulFragmentStats": [],
+    "excludedSoulFragmentStats": []
+}
